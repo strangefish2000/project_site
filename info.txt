@@ -1,0 +1,4 @@
+Use for GitHub Pages Project Sites
+
+SEE:
+https://www.rithmschool.com/courses/intermediate-css-bootstrap/github-pages
